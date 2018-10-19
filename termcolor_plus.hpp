@@ -1,7 +1,7 @@
 #pragma once
-#include "termcolor.hpp"
-
 #include <cassert>
+#include <string>
+#include "termcolor/include/termcolor/termcolor.hpp"
 
 namespace tc {
 namespace detail {
